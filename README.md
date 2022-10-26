@@ -1,1 +1,1 @@
-# DA-promo-b-modulo-3-sprint-2-Chloe-Lucia
+En este Pair Programming a tres, hicimos análisis exploratorio técnico y visual de un dataset relacionado con los Parques Nacionales más extensos de USA para poder visualizar los datos extraídos y conclusiones en Tableau
