@@ -1,1 +1,1 @@
-En este Pair Programming a tres, hicimos análisis exploratorio técnico y visual de un dataset relacionado con los Parques Nacionales más extensos de USA para poder visualizar los datos extraídos y conclusiones en Tableau
+En este repositorio trabajamos en Pair Programming e hicimos análisis exploratorio técnico y visual de un dataset relacionado con los Parques Nacionales más extensos de EE.UU para poder visualizar los datos extraídos y conclusiones en Tableau
